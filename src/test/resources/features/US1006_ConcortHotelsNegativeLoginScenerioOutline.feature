@@ -16,8 +16,4 @@ Feature: US1006 concort hotels sayfasinda farkli kullanici adlari ile negative t
 
     Examples:
     |wrongUserName|wrongPassword|
-    |Manager5     |	Manager5!   |
-    |Manager6     |	Manager6!   |
-    |Manager7     |	Manager7!   |
-    |Manager8     |	Manager8!   |
-    |Manager9     |	Manager9!   |
+   
